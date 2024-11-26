@@ -26,6 +26,7 @@
         <img src="1000032487.jpg" alt="Eddah Kemuma" class="profile-image">
         <p>My name is Eddah Kemuma, I am 20 years old. I am a university student at Meru University currently a second year pursuing a Bachelor of Science in Information Technology.</p>
     </section>
+    
 
     <section id="education" class="container">
         <h2>Education</h2>
@@ -33,6 +34,8 @@
         <p>2019-2022: St Angela Sengera Girls High School</p>
         <p>Currently: Meru University, pursuing a Bachelor of Science in Information Technology.</p>
     </section>
+
+    
     <section id="interests" class="container">
          <h2>Interests</h2> <div class="interest-card">
              <h3>Web Development</h3> 
@@ -45,6 +48,8 @@
                  <p>Designing intuitive and engaging user interfaces to enhance user experience through tools like Adobe XD and Figma.</p>
                  </div>
                  </section>
+
+                 
     <section id="contact" class="container">
         <h2>Contact</h2>
         <form action="#">
